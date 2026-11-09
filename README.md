@@ -1,11 +1,10 @@
 # DEN00712901
 
-Denuncia penal radicada el 29 de enero de 2021 a través de la Oficina Central Receptora de Denuncias (OCRD) del MPF CABA, con aporte de registros fílmicos en video dentro del Hospital General de Agudos Parmenio Piñero.
+Denuncia por hechos en el Hospital Piñero; la UIT Oeste pidió la prueba en video.
 
-Tramitada ante la Unidad de Intervención Temprana Oeste (UIT Oeste). Archivada el 2 de febrero de 2021 por el Fiscal Coordinador Gustavo Galante bajo el art. 211 inc. d) del CPPCABA ("escasa relevancia probatoria" / temperamento expectante).
+Deriva de: [MPF00462972](https://github.com/justiciaparamargarita/mpf00462972)
 
-| Fecha | Documento |
-|---|---|
-| 2021-02-01 | [Requerimiento de prueba audiovisual - Escribiente Ricardo Forno](2021/02/01/hilo-den-712901.e0445.md) |
-| 2021-02-02 | [Resolución de archivo - Fiscal Coordinador Gustavo Galante](2021/02/02/hilo-kiwi-notificacion-de-archivo.e0458.md) |
+## Archivos
 
+- 2021-02-01 [Mail «DEN 712901» · rforno@ → yo (4 mensajes)](2021/02/01/hilo-den-712901.e0445.md)
+- 2021-02-02 [Mail «[KIWI] Notificación de archivo.» · uitoeste@ → yo (2 mensajes)](2021/02/02/hilo-kiwi-notificacion-de-archivo.e0458.md)
